@@ -1,0 +1,48 @@
+.root{
+    -fx-background-color: palegreen;
+}
+
+.button {
+    -fx-background-color: forestgreen;
+    -fx-text-fill: linen;
+}
+
+.button:hover{
+    -fx-background-color: floralwhite;
+    -fx-text-fill: saddlebrown;
+}
+
+.button:pressed {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+    -fx-background-color: slateblue;
+}
+
+.list-cell{
+    -fx-background-color: mistyrose;
+    -fx-text-fill: orangered;
+}
+
+.list-cell:even{
+    -fx-background-color: floralwhite;
+    -fx-text-fill: saddlebrown;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: dodgerblue;
+}
+
+.list-cell:filled:selected{
+    -fx-background-color: blue;
+}
+
+.list-view{
+    -fx-border-width: 3;
+    -fx-border-insets: -1;
+    -fx-border-color: chocolate;
+}
+
+.radio-button:selected .radio .dot{
+    -fx-background-color: blue;
+    -fx-background-insets: 0;
+}

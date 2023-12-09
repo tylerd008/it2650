@@ -1,0 +1,7 @@
+Cleveland@0.0@0.0@true
+North Pole@500.0@-100.0@true
+Campbell Hill@-50.0@-50.0@false
+Tokyo@-100.0@1000.0@true
+Chicago@-200.0@75.0@true
+Erie, PA@150.0@0.0@true
+Allegheny National Forest@300.0@-75.0@false
